@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'plumb';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/plumb-500.ttf');
+}
+
+@font-face {
+    font-family: 'plumb';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/plumb-700.ttf');
+}
+
+@font-face {
+    font-family: 'circle';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/circle-400.ttf');
+}
+
+.header {
+    background-image: url("../img/bgc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+:root {
+    --white-color: #FFFFFF;
+    --gray-color: #E0E0E0;
+    --black-color: #000001;
+}
+
